@@ -1,5 +1,41 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+body{
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+header, nav, article, div, footer {
+    padding: 10px;
+    text-align: center;
+    
+    border: 1px solid black;
+}
+header{
+    width: 100%;
+    background-color: rgb(230, 175, 93);
+}
+footer{
+    width: 100%;
+    clear: both;
+    background-color: rgb(230, 175, 93);
+}
+nav{
+    width: 20%;
+    float: left;
+    height: 200px;
+    background-color: rgb(167, 224, 238);
+}
+article{
+    width: 60%;
+    float: left;
+    height: 200px;
+    background-color: rgb(167, 224, 238);
+}
+div{
+    width: 20%;
+    float: left;
+    height: 200px;
 }
