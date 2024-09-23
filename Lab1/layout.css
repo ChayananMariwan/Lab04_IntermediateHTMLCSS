@@ -15,27 +15,28 @@ header, nav, article, div, footer {
 }
 header{
     width: 100%;
-    background-color: rgb(230, 175, 93);
+    background-color: rgb(255, 231, 195);
 }
 footer{
     width: 100%;
     clear: both;
-    background-color: rgb(230, 175, 93);
+    background-color: rgb(255, 231, 195);
 }
 nav{
     width: 20%;
     float: left;
     height: 200px;
-    background-color: rgb(167, 224, 238);
+    background-color: rgb(187, 237, 250);
 }
 article{
     width: 60%;
     float: left;
     height: 200px;
-    background-color: rgb(167, 224, 238);
+    background-color: rgb(255, 220, 219);
 }
 div{
     width: 20%;
     float: left;
     height: 200px;
+    background-color: rgb(247, 219, 255);
 }
